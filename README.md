@@ -29,7 +29,7 @@ This is an enhanced and efficient version of the **Patient Health Report Analyze
 1. Clone the repository:
    ```bash
    git clone https://github.com/rahulprajapati08/PHR-Analyzer.git
-   cd Next-Word-Predictor-using-GRU
+   cd PHR-Analyzer
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
